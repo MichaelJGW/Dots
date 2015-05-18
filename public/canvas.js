@@ -115,8 +115,9 @@ function draw(){
 				enableMenuTimeout = enableMenuTimeoutDefault;
 				addText(
 						10,30,20,
+						"Created By Michael Warner (MichaelJWarner@outlook.com)",
 						"--ABOUT DOTS--",
-						"This application is best viewed in fullscreen mode (f11).",
+						"This application is best viewed in fullscreen mode.",
 						"This application creates a single, random dot that recursively gives birth to other dots.",
 						"Dots are random. When they are born they are randomly assigned a speed, size, lifespan, birthrate, etc.",
 						"Dots inherit some genes from their parent.",
